@@ -7,4 +7,4 @@ public interface DCommand {
 
 	
 	public void execute(HttpServletRequest request, HttpServletResponse response);
-}
+}  //비컨맨드  test
